@@ -7,7 +7,7 @@
 
 
 * 关于redis的一篇文章 https://redis.com/blog/redis-vs-dragonflydb/  贡献者：@Pure White
-* 《Redis 设计与实现》贡献者：@齐天大圣
+* redis好书推荐：《Redis 设计与实现》https://github.com/7-sevens/Developer-Books/blob/master/Redis/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf 贡献者：@齐天大圣
 * 好书分享：https://www.amazon.sg/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=asc_df_1449373321/?tag=googleshoppin-22&linkCode=df0&hvadid=389055537118&hvpos=&hvnetw=g&hvrand=16246476611259019893&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062542&hvtargid=pla-432535594773&psc=1 贡献者：@Xavier
 
 * 找书网站: goodreads, zlib  贡献者：@秃秃猫
