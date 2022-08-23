@@ -34,7 +34,3 @@
 [天猫模拟面试](https://github.com/KSDeng/TechnicalCommunications/blob/main/%E5%A4%A9%E7%8C%AB%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95-20220801.png) 贡献者：@Lissuta
 
 
-
-### 2022.8.2
-
-[米哈游面试 - 后端基础架构](https://github.com/KSDeng/TechnicalCommunications/blob/main/%E7%B1%B3%E5%93%88%E6%B8%B8%E9%9D%A2%E8%AF%95-20220802.png) 贡献者：@齐天大圣
