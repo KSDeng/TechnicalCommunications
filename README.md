@@ -34,3 +34,46 @@
 [天猫模拟面试](https://github.com/KSDeng/TechnicalCommunications/blob/main/%E5%A4%A9%E7%8C%AB%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95-20220801.png) 贡献者：@Lissuta
 
 
+
+### 2022.12.1
+
+推荐几个算法学习网站
+1. Oi-wiki 算法教程 竞赛相关等
+ https://oi-wiki.org/graph/
+ 
+2. leetcode三叶题单 leetcode常见题型都有
+ https://github.com/SharingSource/LogicStack-LeetCode/wiki
+ 
+3. leetcode liweiwei算法教程 二分讲的很不错 
+ https://www.suanfa8.com/
+ 
+4. 灵神竞赛题单（个人感觉挺难的没怎么看过 用go写的
+  https://github.com/EndlessCheng/codeforces-go
+
+5. Kuangbin 题单（听说很不错 本菜鸡也没怎么做过
+  https://vjudge.net/article/187
+
+6. 根据数据量反推复杂度 选择合适的算法
+  https://codeforces.com/blog/entry/21344
+  https://www.acwing.com/blog/content/32/
+
+7. leetcode周赛题目rating
+  https://zerotrac.github.io/leetcode_problem_rating/#/
+
+8. 数据结构可视化（和visualgo差不多？
+  https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+9. 题解仓库
+
+  https://github.com/doocs/leetcode
+
+贡献者 @Tian
+
+
+
+前端面试资料推荐
+
+https://www.yuque.com/cuggz/interview
+
+贡献者 @zst
+
